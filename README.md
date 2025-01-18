@@ -1,5 +1,5 @@
 # Housing-Price-Prediction
-Predicting sales prices for homes in Ames Iowa 
+Predicting sales prices for homes in Ames Iowa using supervised machine learning 
 
 Kaggle dataset: https://www.kaggle.com/datasets/marcopale/housing/data?select=AmesHousing.csv
 
